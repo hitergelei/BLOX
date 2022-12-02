@@ -4,7 +4,7 @@ Python implementation of BoundLess Objective-free eXploration (BLOX)* for discov
 \* K. Terayama, M. Sumita, R. Tamura, D. T. Payne, M. K. Chahal, S. Ishihara, K. Tsuda, "Pushing property limits in materials discovery via boundless objective-free exploration," *Chemical Science*, 2020. [DOI: 10.1039/D0SC00982B]
 
 补充：[Efficiently searching extreme mechanical properties via boundless objective-free exploration and minimal first-principles calculations](https://www.nature.com/articles/s41524-022-00836-1)  
-\*Ojih, J., Al-Fahdi, M., Rodriguez, A.D. et al. Efficiently searching extreme mechanical properties via boundless objective-free exploration and minimal first-principles calculations. npj Comput Mater 8, 143 (2022). https://doi.org/10.1038/s41524-022-00836-1
+引用: \* Ojih, J., Al-Fahdi, M., Rodriguez, A.D. et al. Efficiently searching extreme mechanical properties via boundless objective-free exploration and minimal first-principles calculations. npj Comput Mater 8, 143 (2022). https://doi.org/10.1038/s41524-022-00836-1
 ## Requirements
 - Python > 3.6
 
